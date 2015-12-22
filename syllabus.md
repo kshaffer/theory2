@@ -56,7 +56,7 @@ Unit III (approx. weeks 11–15): Pop/rock music & introduction to large-scale m
 
 ## Assessment & grades
 
-The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
+The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/) — the exact opposite of what a liberal education should do.
 
 My goal in grading is three-fold: to diminish the significance and the negative impact grades can have on the learning environment, to direct your studies clearly (but flexibly) to specific areas that need attention, and to make sure that grades do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
 

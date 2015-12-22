@@ -7,7 +7,7 @@ image: homework.jpg
 
 ## Grades (from the syllabus)
 
-The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
+The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/) — the exact opposite of what a liberal education should do.
 
 My goal in grading is three-fold: to diminish the significance and the negative impact grades can have on the learning environment, to direct your studies clearly (but flexibly) to specific areas that need attention, and to make sure that grades do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
 
@@ -21,12 +21,13 @@ I have done my best to keep the assessment simple. However, when questions and c
 Following are assessment types that comprise the final grade:
 
 - **Reading/video quizzes (online)** - 20% of the final grade.  
-- **Fundamentals quizzes (online)** - 20% of the final grade.  
-- **Fundamentals test** - 10% of the final grade.  
-- **Application assignments** - 40% of the final grade.  
-- **Final writing project** - 10% of the final grade.
+- **Application assignments** - 80% of the final grade.  
 
-Below are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
+All reading quizzes will receive percentage grades (as they did last semester), and the lowest 20% of quiz grades will be dropped from the final grade. They are due before the beginning of class meetings, and there are no late quizzes accepted.
+
+All application assignments will be graded passed/attempted/not-attempted. A complete, honest attempt gets you half credit; a high-quality exemplar that demonstrates understanding of the concept in question receives full credit. Having 100% mastery of 80% of the concepts is *far better* than 80% mastery of 100% of the concepts. So, essentially, your grade will be determined by the number of concepts and skills you master (like with species counterpoint at the end of last semester), not by the number of nit-picky things you get right on each worksheet. With that in mind, you will have at least two opportunities to demonstrate mastery of each concept/skill before moving on.
+
+Below are a full list of concepts and skills for this course, as well as written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
 
 *Some of the assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
 
