@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus
+title: Getting Started
 subTitle: "Music Theory 2 (MUSC 1111)<br/>CU–Boulder, Fall 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: drain.jpg
 ---
