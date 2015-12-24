@@ -27,6 +27,7 @@ Unlike last semester, I will not begin the course with you. I will be on parenta
 I'm looking forward to seeing you again when I return. We have some great music to make — and break — together!
 
 – Kris Shaffer, Ph.D.  
-(I prefer to be called Kris)
+(for those of you who don't know me already, I prefer to be called Kris)
+
 
 *P.S. Feel free to browse the whole course website if you like, including the syllabus and assignment guide. We will also look at those together later this week.*
