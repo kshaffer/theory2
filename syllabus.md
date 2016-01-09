@@ -26,6 +26,7 @@ Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)
 Physical office: MUS N138  
 Email: kris.shaffer@colorado.edu  
 Substitute instructor (Weeks 1–6): Karin Buer ([karin.buer@unco.edu](mailto:karin.buer@unco.edu))  
+Office hours: Monday/Wednesday, 10am–11am (N138)  
 Teaching assistant: Zack Patten ([zachary.patten@colorado.edu](mailto:zachary.patten@colorado.edu))  
 TA office: MUS N114  
 TA office hours: 11am–noon, Tuesday & Thursday  
