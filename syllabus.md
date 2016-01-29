@@ -29,7 +29,7 @@ Substitute instructor (Weeks 1–6): Karin Buer ([karin.buer@unco.edu](mailto:ka
 Office hours: Monday/Wednesday, 10am–11am (N138)  
 Teaching assistant: Zack Patten ([zachary.patten@colorado.edu](mailto:zachary.patten@colorado.edu))  
 TA office: MUS N114  
-TA office hours: 11am–noon, Tuesday & Thursday  
+TA office hours: 8:50–9:50, Monday & Wednesday  
 Twitter: @krisshaffer  
 Course website: [theory2.shaffermusic.com](http://theory2.shaffermusic.com/)    
 LMS/Gradebook:  D2L
