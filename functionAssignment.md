@@ -27,3 +27,9 @@ Your grade on the assignment will be the percentage of the above 12 objectives c
 Be sure to review both the readings and the class activities/examples from the past few weeks as you prepare this video.
 
 Upload your video to the D2L dropbox. If your score cannot be read legibly on the video, upload a PDF or image file of the musical excerpt you reference.
+
+**Here are three examples you can use as general models (from a course in music cognition, not music theory):**
+
+- [Learned auditory grouping](https://vimeo.com/129686217)  
+- [Secondary parameters](https://vimeo.com/132101450)  
+- [Nuance](https://vimeo.com/131795860)  
