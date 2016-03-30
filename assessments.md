@@ -67,11 +67,11 @@ Following is a list of specific concepts/skills that will form the basis for the
 
 ### Unit II 
 
+- Realize a figured bass line containing both diatonic and applied chords  
 - Realize a diatonic unfigured bass line according to the *phrase model* in a major key  
 - Realize a diatonic unfigured bass line according to the *phrase model* in a minor key  
 - Harmonize a diatonic melody according to the *phrase model* in a major key  
 - Harmonize a diatonic melody according to the *phrase model* in a minor key  
-- Differentiate *sentence* and *period* forms in classical instrumental themes  
 - Perform a full harmonic reduction and analysis of a classical instrumental theme (including only diatonic harmonies)  
 - Perform a full harmonic reduction and analysis of a classical instrumental theme (including both diatonic and applied-dominant harmonies)  
 - Verbally explain harmonic functions in the context of a classical theme example  
