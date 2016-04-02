@@ -36,6 +36,6 @@ The following procedure is by no means the only way to realize an unfigured bass
 
 ## Model solutions
 
-You may find my model solutions here: [unfigured bass](https://trinket.io/music/892e0196a7) | [melody](https://trinket.io/music/bbc1c75140)
+You may find my model solutions here: [unfigured bass](https://trinket.io/music/892e0196a7) \| [melody](https://trinket.io/music/bbc1c75140)
 
 Which do you think provides more compositional freedom while still matching stylistic norms, the unfigured bass realization or the melody harmonization?
