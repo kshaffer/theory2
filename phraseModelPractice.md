@@ -30,7 +30,7 @@ The following procedure is by no means the only way to realize an unfigured bass
 3. In the music that precedes the cadential progression, find some easy places to include straightforward tonic-prolongation schemas (a passing 6/4 chord, a neighbor chord, etc.), and insert Roman numerals and/or bass notes.  
 4. If any chords remain undecided, work out harmonic solutions for those chords, using the existing chords as guides and keeping in mind that all pre-cadential-progression chords should either be tonic function or part of a well-formed tonic-prolongation pattern. These chords may belong to more complex patterns like *subsidiary harmonic progressions*, *deceptive resolutions*, harmonic sequences, or involve applied-dominant chords.  
 5. Work out the voice leading (melody first, if you are realizing an unfigured bass; bass-first, if you are harmonizing a melody).  
-6. Work out final chord decisions as you compose the inner voices. (For example, decisions between IV and ii<sup>6</sup>, V<sup>6/5</sup>/x or vii°<sup>7</sup>/x, etc. are often best made in light of which option makes the smoothest voice-leading.)  
+6. Work out final chord decisions as you compose the inner voices. (For example, decisions between IV and ii<sup>6</sup>, V<sup>6/5</sup>/x and vii°<sup>7</sup>/x, etc. are often best made in light of which option makes the smoothest voice-leading.)  
 7. Play and/or listen to your excerpt, and make adjustments as your ears, eyes, and hands notice issues.
 
 
